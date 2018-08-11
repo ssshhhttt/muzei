@@ -11,7 +11,7 @@ Alternatively, you can choose your favorite photos from your own gallery or othe
 
 **[Install on Google Play](https://play.google.com/store/apps/details?id=net.nurik.roman.muzei)**
 
-Muzei API
+Muzei API Modified by zhukai
 =========
 
 Muzei offers a simple API that allows you to build your own wallpaper source.
